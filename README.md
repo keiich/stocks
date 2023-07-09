@@ -1,5 +1,5 @@
 # stocks
-# whats is this
+## whats is this
 とある株式会社に置いて、過去1ヶ月の株価の最高値・最低値を記録した日のニュースを取得する
 
 ## how to use
